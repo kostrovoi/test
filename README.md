@@ -6,3 +6,4 @@ second commit
 third
 magic fix
 git checkout README.md
+git another commit
